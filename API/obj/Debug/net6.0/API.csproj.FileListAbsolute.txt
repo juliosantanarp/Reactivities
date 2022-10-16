@@ -57,6 +57,7 @@ C:\Users\julio\Reactivities\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlit
 C:\Users\julio\Reactivities\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\julio\Reactivities\API\bin\Debug\net6.0\Persistence.dll
 C:\Users\julio\Reactivities\API\bin\Debug\net6.0\Persistence.pdb
+<<<<<<< HEAD
 C:\Users\julio\Reactivities\Reactivities\API\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\julio\Reactivities\Reactivities\API\bin\Debug\net6.0\appsettings.json
 C:\Users\julio\Reactivities\Reactivities\API\bin\Debug\net6.0\API.exe
@@ -116,3 +117,5 @@ C:\Users\julio\Reactivities\Reactivities\API\obj\Debug\net6.0\refint\API.dll
 C:\Users\julio\Reactivities\Reactivities\API\obj\Debug\net6.0\API.pdb
 C:\Users\julio\Reactivities\Reactivities\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\julio\Reactivities\Reactivities\API\obj\Debug\net6.0\ref\API.dll
+=======
+>>>>>>> 4a09179a104354ef663f284a95cfe05b2c7a6cac

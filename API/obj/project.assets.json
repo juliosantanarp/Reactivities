@@ -1328,11 +1328,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julio\\Reactivities\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\julio\\Reactivities\\Reactivities\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\API\\API.csproj",
+      "projectPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\api\\API.csproj",
       "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\API\\obj\\",
+      "outputPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"

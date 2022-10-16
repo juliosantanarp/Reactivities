@@ -13,6 +13,7 @@ C:\Users\julio\Reactivities\Persistence\obj\Debug\net6.0\Persistence.dll
 C:\Users\julio\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 C:\Users\julio\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
 C:\Users\julio\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+<<<<<<< HEAD
 C:\Users\julio\Reactivities\Reactivities\Persistence\bin\Debug\net6.0\Persistence.deps.json
 C:\Users\julio\Reactivities\Reactivities\Persistence\bin\Debug\net6.0\Persistence.dll
 C:\Users\julio\Reactivities\Reactivities\Persistence\bin\Debug\net6.0\Persistence.pdb
@@ -28,3 +29,5 @@ C:\Users\julio\Reactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistenc
 C:\Users\julio\Reactivities\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 C:\Users\julio\Reactivities\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
 C:\Users\julio\Reactivities\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+=======
+>>>>>>> 4a09179a104354ef663f284a95cfe05b2c7a6cac
