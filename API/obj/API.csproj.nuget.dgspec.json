@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio\\Reactivities\\Reactivities\\api\\API.csproj": {}
+    "C:\\Users\\julio\\Reactivities\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio\\Reactivities\\Reactivities\\api\\API.csproj": {
+    "C:\\Users\\julio\\Reactivities\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\Reactivities\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\julio\\Reactivities\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
               },
               "C:\\Users\\julio\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj": {
                 "projectPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\Persistence\\Persistence.csproj"
@@ -115,6 +115,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -134,14 +140,14 @@
         }
       }
     },
-    "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -208,8 +214,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

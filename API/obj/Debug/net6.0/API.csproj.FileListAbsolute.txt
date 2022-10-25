@@ -119,3 +119,6 @@ C:\Users\julio\Reactivities\Reactivities\API\obj\Debug\net6.0\API.genruntimeconf
 C:\Users\julio\Reactivities\Reactivities\API\obj\Debug\net6.0\ref\API.dll
 =======
 >>>>>>> 4a09179a104354ef663f284a95cfe05b2c7a6cac
+C:\Users\julio\Reactivities\Reactivities\API\bin\Debug\net6.0\MediatR.dll
+C:\Users\julio\Reactivities\Reactivities\API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\julio\Reactivities\Reactivities\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

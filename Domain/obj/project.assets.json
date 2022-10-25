@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julio\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,13 +61,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

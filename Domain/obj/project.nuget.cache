@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OT202iv4skM2p4I+X/vA0PW83Y30qlLTLz2mhXHSnVlbp82/smwkU6O6s7K9po7YrV4FnpGlFh2hW9wZhacy/g==",
+  "dgSpecHash": "VY+vc3rS3Vjglw63te9drSOCSg1OEVNRYnd4a4FqKeRS0afKkx2DzSzhXpXL560kXtmCvz1d/qx/qSN/8Fpd3w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\julio\\Reactivities\\Reactivities\\Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
